@@ -1,0 +1,9 @@
+h1{
+    padding: 15px;
+}
+.fr{
+    padding: 15px;
+    border-width: 2px;
+    border-style: solid;
+    text-transform: uppercase;
+}
